@@ -1,0 +1,12 @@
+.nav {
+  background-color: #112031;
+  height: 50px;
+  text-align: center;
+  padding: 5px;
+}
+
+.nav header {
+  color: aliceblue;
+  font-size: x-large;
+  font-weight: 600;
+}
